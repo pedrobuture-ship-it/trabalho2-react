@@ -1,5 +1,10 @@
 # Cadastro de Clientes com ReactJS e API REST
+## Equipe
 
+- Integrante 1: Pedro Buture de Oliveira
+- Integrante 2: Arthur Gregorio
+
+  
 Aplicacao ReactJS para cadastro, edicao, remocao e listagem de clientes consumindo uma API REST. A API foi implementada com JSON Server para atender ao requisito da atividade usando uma Mock API local.
 
 ## Funcionalidades
@@ -78,12 +83,7 @@ API.md
 README.md
 ```
 
-## Equipe
-
-- Integrante 1: Pedro Buture de Oliveira
-- Integrante 2: Arthur Gregorio
 
 
-## Entrega
 
-Somente um integrante da equipe deve postar no Classroom o link do repositorio GitHub antes da apresentacao, ate 17/06/2026 as 07:20h.
+
